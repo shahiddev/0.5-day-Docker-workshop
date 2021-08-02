@@ -18,7 +18,6 @@ On Windows we recommend using [Chocolatey](https://chocolatey.org/install) to in
 * Docker for Windows (or Mac) - https://www.docker.com/products/docker-desktop (to minimise any issues please install stable channel)
 * Git - https://git-scm.com/downloads
 * Visual Studio Code - https://code.visualstudio.com/ 
-* Azure command line - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
   
 ## Accounts
 A DockerHub account (free) - https://hub.docker.com/signup 
